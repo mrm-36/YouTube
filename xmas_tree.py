@@ -1,4 +1,5 @@
 #Import the Turtle module
+#Credits to @jurandysoares.
 import turtle
 
 #Setup the screen for our painting
